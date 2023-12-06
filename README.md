@@ -1,3 +1,4 @@
+![logo](https://github.com/SanketCRajeshirke/SanketCRajeshirke/blob/main/Software%20tester.png)
 <h1 align="center">Hi 👋, I'm Sanket Chandrakant Rajeshirke</h1>
 <h3 align="center">A passionate manual and automation tester from India</h3>
 
