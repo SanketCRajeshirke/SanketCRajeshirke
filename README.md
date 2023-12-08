@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sanket Chandrakant Rajeshirke</h1>
 <h3 align="center">A passionate manual and automation tester from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://statusneo.com/wp-content/uploads/2023/03/GIF-image-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketcrajeshirke&label=Profile%20views&color=0e75b6&style=flat" alt="sanketcrajeshirke" /> </p>
 
